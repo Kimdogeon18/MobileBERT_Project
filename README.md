@@ -15,6 +15,7 @@
 ---
 
 ## 3. 전체 데이터셋 구성 및 예시
+- 데이터 출처 : https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 - 총 샘플 수: 72,134건  
 - 컬럼: `title`, `text`, `label`, `text_length`  
 - 라벨 분포: 진짜 뉴스(1): 37,106건 / 가짜 뉴스(0): 35,028건  
